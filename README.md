@@ -1,5 +1,10 @@
 # json-place-holder-db
 
+#### jsonplaceholder
+```bash
+https://my-json-server.typicode.com/Gopartner/json-place-holder-db/
+```
+
 ### endpoint
 ```bash
 https://my-json-server.typicode.com/Gopartner/json-place-holder-db/
