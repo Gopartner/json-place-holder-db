@@ -1,41 +1,48 @@
 {
   "makanan": [
     {
-      "id": 1,
-      "title": "Sample Item 1",
-      "description": "This is a description for Sample Item 1.",
-      "image": "https://example.com/image1.jpg",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+      "id": 4,
+      "title": "Nasi Goreng",
+      "description": "Nasi yang digoreng dengan rempah-rempah dan bumbu khas Indonesia.",
+      "image": "https://source.unsplash.com/featured/?nasigoreng",
+      "token": "..."
     },
     {
-      "id": 2,
-      "title": "Sample Item 2",
-      "description": "This is a description for Sample Item 2.",
-      "image": "https://example.com/image2.jpg",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkRvZSBNYXJrZXQiLCJpYXQiOjE1MTYyMzkwMjJ9.TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ"
+      "id": 5,
+      "title": "Sate Ayam",
+      "description": "Potongan daging ayam yang ditusuk dan dipanggang dengan bumbu kacang.",
+      "image": "https://source.unsplash.com/featured/?sateayam",
+      "token": "..."
     },
     {
-      "id": 3,
-      "title": "Sample Item 3",
-      "description": "This is a description for Sample Item 3.",
-      "image": "https://example.com/image3.jpg",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlNhbXBsZSBUaW1lIiwiaWF0IjoxNTE2MjM5MDIyfQ.DGVkcVH9oiRi2a6BXH2znDmzPY-VGk27HcTl2wSeKas"
+      "id": 24,
+      "title": "Rendang",
+      "description": "Daging sapi yang dimasak dalam santan dengan rempah-rempah hingga kering.",
+      "image": "https://source.unsplash.com/featured/?rendang",
+      "token": "..."
     }
   ],
   "minuman": [
     {
-      "id": 1,
-      "title": "Drink 1",
-      "description": "This is a description for Drink 1.",
-      "image": "https://example.com/drink1.jpg",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkRyaW5rIDEiLCJpYXQiOjE1MTYyMzkwMjJ9.TxkRV1p_2U6KL59-c4WbA9nXx-P4v6yftTXYtOaFq2o"
+      "id": 2,
+      "title": "Es Teh Manis",
+      "description": "Minuman teh dingin manis yang menyegarkan.",
+      "image": "https://source.unsplash.com/featured/?esteh",
+      "token": "..."
     },
     {
-      "id": 2,
-      "title": "Drink 2",
-      "description": "This is a description for Drink 2.",
-      "image": "https://example.com/drink2.jpg",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkRyaW5rIDIiLCJpYXQiOjE1MTYyMzkwMjJ9.4t4qHk-6g8lJGFaMx1pDOzZkPJKvJWfOC8eFTgIM9z0"
+      "id": 3,
+      "title": "Es Campur",
+      "description": "Minuman campuran berbagai buah dengan sirup dan es serut.",
+      "image": "https://source.unsplash.com/featured/?escampur",
+      "token": "..."
+    },
+    {
+      "id": 22,
+      "title": "Es Cendol",
+      "description": "Minuman tradisional dengan campuran tepung hunkwe, santan, gula merah, dan es serut.",
+      "image": "https://source.unsplash.com/featured/?escendol",
+      "token": "..."
     }
   ]
 }
